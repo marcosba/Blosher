@@ -52,7 +52,7 @@ To ensure the application works without issues, the following are required:
 4. **Run the Flask server:**
    Start the application by running:
    ```bash
-   python app.py
+   python blosher.py
    ```
 
 5. **Access the application:**
