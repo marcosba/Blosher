@@ -35,7 +35,7 @@ To ensure the application works without issues, the following are required:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/marcosba/Blosher.git
    cd blogger-app
    ```
 
