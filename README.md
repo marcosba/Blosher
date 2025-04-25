@@ -36,7 +36,7 @@ To ensure the application works without issues, the following are required:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/marcosba/Blosher.git
-   cd blogger-app
+   cd Blosher
    ```
 
 2. **Install dependencies:**
